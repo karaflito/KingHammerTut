@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float moveSpeed = 5f; // Speed of the player movement
-    private Vector2 moveInput; // Stores the intpu direction from WASD
+    private Vector2 moveInput; // Stores the input direction from WASD
 
 
 
